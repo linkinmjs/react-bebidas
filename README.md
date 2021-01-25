@@ -30,6 +30,9 @@ $ npm install
 $ npm start
 ```
 
+### TO-DO
+- Corregir Scroll en Modal
+- Agregar Back
 
 
 [node.js]: <https://nodejs.org/>
